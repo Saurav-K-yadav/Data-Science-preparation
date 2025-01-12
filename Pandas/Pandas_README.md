@@ -1,1 +1,2 @@
-## The tutorial is from the following link [https://www.youtube.com/watch?v=vmEHCJofslg]
+- The tutorial is from the following link [Youtube](https://www.youtube.com/watch?v=vmEHCJofslg). 
+- The Github link for the tutorial is at [Github](https://github.com/KeithGalli/pandas).
